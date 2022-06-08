@@ -1,5 +1,7 @@
 .wordpress-cache
 
+.idea/
+
 # Logs
 logs
 *.log
